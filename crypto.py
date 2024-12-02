@@ -207,6 +207,6 @@ else:
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center'>
-        <p>Created with ❤️ by Abhyuday, Rituraj, Abhinav, Tejas & Sambit</p>
+        <p>Created with ❤️ in Python and Streamlit</p>
     </div>
 """, unsafe_allow_html=True)
