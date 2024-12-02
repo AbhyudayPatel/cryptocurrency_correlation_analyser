@@ -202,7 +202,7 @@ if len(selected_cryptos) > 0:
             mime="text/csv",
         )
 else:
-    st.warning("Please select at least one cryptocurrency to analyze.")
+    st.warning("Please select at least one cryptocurrency to analyze .")
 
 st.markdown("---")
 st.markdown("""
